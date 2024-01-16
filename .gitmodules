@@ -8,3 +8,7 @@
 [submodule "sleeprex"]
 	path = sleeprex
 	url = https://github.com/roaldarbol/sleeprex
+[submodule "usethis"]
+	path = usethis
+	url = https://github.com/r-lib/usethis
+	registered = false
