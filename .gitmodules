@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/roaldarbol/roaldarbol.r-universe.dev
 	branch = HEAD
+[submodule "pixi"]
+	path = pixi
+	url = https://github.com/roaldarbol/pixi
+[submodule "sleeprex"]
+	path = sleeprex
+	url = https://github.com/roaldarbol/sleeprex
