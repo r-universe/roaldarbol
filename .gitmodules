@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "pixi"]
 	path = pixi
-	url = https://github.com/roaldarbol/pixi
+	url = https://github.com/roaldarbol/r-pixi
 [submodule "sleeprex"]
 	path = sleeprex
 	url = https://github.com/roaldarbol/sleeprex
