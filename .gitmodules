@@ -8,6 +8,9 @@
 [submodule "sleeprex"]
 	path = sleeprex
 	url = https://github.com/roaldarbol/sleeprex
+[submodule "trackballr"]
+	path = trackballr
+	url = https://github.com/roaldarbol/trackballr
 [submodule "usethis"]
 	path = usethis
 	url = https://github.com/r-lib/usethis
