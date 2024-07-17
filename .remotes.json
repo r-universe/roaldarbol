@@ -4,5 +4,11 @@
     "url": "https://github.com/r-lib/usethis",
     "via": ["pixi"],
     "from": "pixi"
+  },
+  {
+    "package": "usethis",
+    "url": "https://github.com/r-lib/usethis",
+    "via": ["rpix"],
+    "from": "rpix"
   }
 ]
