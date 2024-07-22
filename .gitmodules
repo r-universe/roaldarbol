@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/roaldarbol/roaldarbol.r-universe.dev
 	branch = HEAD
+[submodule "altdoc"]
+	path = altdoc
+	url = https://github.com/etiennebacher/altdoc
+	registered = false
 [submodule "anibehavr"]
 	path = anibehavr
 	url = https://github.com/roaldarbol/anibehavr
