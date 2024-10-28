@@ -22,3 +22,6 @@
 	path = usethis
 	url = https://github.com/r-lib/usethis
 	registered = false
+[submodule "wavecolour"]
+	path = wavecolour
+	url = https://github.com/roaldarbol/wavecolour
