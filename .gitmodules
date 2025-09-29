@@ -15,6 +15,15 @@
 [submodule "respirometr"]
 	path = respirometr
 	url = https://github.com/roaldarbol/respirometr
+[submodule "rhdf5"]
+	path = rhdf5
+	url = https://github.com/Huber-group-EMBL/rhdf5
+[submodule "rhdf5filters"]
+	path = rhdf5filters
+	url = https://github.com/Huber-group-EMBL/rhdf5filters
+[submodule "rhdf5lib"]
+	path = rhdf5lib
+	url = https://github.com/Huber-group-EMBL/Rhdf5lib
 [submodule "rpix"]
 	path = rpix
 	url = https://github.com/roaldarbol/rpix
