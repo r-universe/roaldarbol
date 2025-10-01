@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/roaldarbol/roaldarbol.r-universe.dev
 	branch = HEAD
+[submodule "Rhdf5lib"]
+	path = Rhdf5lib
+	url = https://github.com/Huber-group-EMBL/Rhdf5lib
 [submodule "altdoc"]
 	path = altdoc
 	url = https://github.com/etiennebacher/altdoc
@@ -21,9 +24,6 @@
 [submodule "rhdf5filters"]
 	path = rhdf5filters
 	url = https://github.com/Huber-group-EMBL/rhdf5filters
-[submodule "rhdf5lib"]
-	path = rhdf5lib
-	url = https://github.com/Huber-group-EMBL/Rhdf5lib
 [submodule "rpix"]
 	path = rpix
 	url = https://github.com/roaldarbol/rpix
