@@ -18,6 +18,9 @@
 [submodule "animovement"]
 	path = animovement
 	url = https://github.com/roaldarbol/animovement
+[submodule "aniprocess"]
+	path = aniprocess
+	url = https://github.com/roaldarbol/aniprocess
 [submodule "aniread"]
 	path = aniread
 	url = https://github.com/roaldarbol/aniread
